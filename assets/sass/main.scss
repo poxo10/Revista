@@ -1,0 +1,29 @@
+// CORREGIR EN CADA CASO
+// CORREGIR EN CADA CASO
+// CORREGIR EN CADA CASO
+// CORREGIR EN CADA CASO
+
+// abstracts
+@import "abstracts/mixins";
+@import "abstracts/variables";
+// vendors
+// @import "vendors/bootstrap5/bootstrap";
+// base
+@import "base/base";
+@import "base/reset";
+@import "base/typography";
+// layout
+@import "layout/header";
+@import "layout/section";
+@import "layout/article";
+@import "layout/footer";
+@import "layout/nav";
+@import "layout/aside";
+@import "layout/grid";
+// components
+@import "components/buttons";
+@import "components/links";
+@import "components/pagination";
+@import "components/thumbnails";
+// pages
+// themes
